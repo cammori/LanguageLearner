@@ -24,13 +24,5 @@ public class TokenizeSentences {
 		for (String sentence : sentenceList) {
 			System.out.println(sentence);
 		}
-
-		// HashMap<Integer, String> tokenizedSentences = new HashMap<Integer,
-		// String>();
-		// public String[] sentenceTokenizer(String HTMLParagraphs) {
-		// //Take HTMLParagraphs to
-		// return null;
-		//
-		// }
 	}
 }
